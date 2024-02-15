@@ -1,0 +1,15 @@
+C:\Users\Егор\Desktop\BinaryReadWrite-master\BinaryReadWrite\bin\Debug\net5.0\BinaryReadWrite.exe
+C:\Users\Егор\Desktop\BinaryReadWrite-master\BinaryReadWrite\bin\Debug\net5.0\BinaryReadWrite.deps.json
+C:\Users\Егор\Desktop\BinaryReadWrite-master\BinaryReadWrite\bin\Debug\net5.0\BinaryReadWrite.runtimeconfig.json
+C:\Users\Егор\Desktop\BinaryReadWrite-master\BinaryReadWrite\bin\Debug\net5.0\BinaryReadWrite.runtimeconfig.dev.json
+C:\Users\Егор\Desktop\BinaryReadWrite-master\BinaryReadWrite\bin\Debug\net5.0\BinaryReadWrite.dll
+C:\Users\Егор\Desktop\BinaryReadWrite-master\BinaryReadWrite\bin\Debug\net5.0\BinaryReadWrite.pdb
+C:\Users\Егор\Desktop\BinaryReadWrite-master\BinaryReadWrite\obj\Debug\net5.0\BinaryReadWrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\Desktop\BinaryReadWrite-master\BinaryReadWrite\obj\Debug\net5.0\BinaryReadWrite.AssemblyInfoInputs.cache
+C:\Users\Егор\Desktop\BinaryReadWrite-master\BinaryReadWrite\obj\Debug\net5.0\BinaryReadWrite.AssemblyInfo.cs
+C:\Users\Егор\Desktop\BinaryReadWrite-master\BinaryReadWrite\obj\Debug\net5.0\BinaryReadWrite.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\BinaryReadWrite-master\BinaryReadWrite\obj\Debug\net5.0\BinaryReadWrite.dll
+C:\Users\Егор\Desktop\BinaryReadWrite-master\BinaryReadWrite\obj\Debug\net5.0\refint\BinaryReadWrite.dll
+C:\Users\Егор\Desktop\BinaryReadWrite-master\BinaryReadWrite\obj\Debug\net5.0\BinaryReadWrite.pdb
+C:\Users\Егор\Desktop\BinaryReadWrite-master\BinaryReadWrite\obj\Debug\net5.0\BinaryReadWrite.genruntimeconfig.cache
+C:\Users\Егор\Desktop\BinaryReadWrite-master\BinaryReadWrite\obj\Debug\net5.0\ref\BinaryReadWrite.dll
